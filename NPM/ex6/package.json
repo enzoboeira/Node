@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "ex6",
+  "version": "1.0.0",
+  "description": "teste",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pintonaldo",
+  "license": "ISC"
+}
